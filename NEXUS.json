@@ -1,0 +1,30 @@
+{
+  "name": "NEXUS",
+  "identifier": "bio.link.nexus_hub.nexapp",
+  "apps": [
+    {
+      "name": "NEXUS repo",
+      "bundleIdentifier": "bio.link.nexus_hub.roblox",
+      "developerName": "NEXUS Inc.",
+      "version": "2.642.637",
+      "versionDate": "2024-10-01",
+      "versionDescription": "New executor cloud script",
+      "downloadURL": "https://example.com/path/to/tuaapp.ipa",
+      "localizedDescription": "Roblox executor by NEXUS",
+      "iconURL": "https://example.com/path/to/tuaapp-icon.png",
+      "tintColor": "rgba(0, 0, 0, 1)"
+    },
+    {
+      "name": "Blacklist",
+      "bundleIdentifier": "bio.link.nexus_hub.blacklist",
+      "developerName": "NEXUS Inc.",
+      "version": "1.0",
+      "versionDate": "2024-10-02",
+      "versionDescription":Released",
+      "downloadURL": "https://github.com/nexus-hub10/NEXUS-repository/raw/refs/heads/main/Blacklist.ipa",
+      "localizedDescription": "Can reset your iPhone blacklist. Then you can use revoked app",
+      "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgWYEbCCsTWVlGjGd1u-WhiNiYmnmivi0oZozwV-qjew&s",
+      "tintColor": "rgba(255, 0, 0, 1)"
+    }
+  ]
+}
