@@ -1,6 +1,7 @@
 {
   "name": "NEXUS",
   "identifier": "bio.link.nexus_hub.nexapp",
+  "iconURL": "https://cdn.bio.link/uploads/thumbnails/2024-10-07/UxCbq2sibQGScyqKdxpZzixjpQtlGpLB.png",
   "apps": [
     {
       "name": "I.N.E.",
