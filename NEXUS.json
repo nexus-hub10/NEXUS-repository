@@ -1,6 +1,7 @@
 {
   "name": "NEXUS",
   "identifier": "bio.link.nexus_hub.nexapp",
+  "iconURL": "https://cdn.bio.link/uploads/thumbnails/2024-10-07/UxCbq2sibQGScyqKdxpZzixjpQtlGpLB.png",
   "apps": [
     {
       "name": "I.N.E.",
@@ -11,8 +12,7 @@
       "versionDescription": "New executor cloud script",
       "downloadURL": "https://download948.mediafire.com/fdmtj6mtr07ggmafSyklzkG1in3PGFWjd_ZXOsjHfFBnP8d6_4pqovyQ7xsthu73oujx2B1Hn2hraBAF7OnQg9vAjwPTEt7Uz6LRYaFKX7ZNJGGIlC4QgDLHy1u01CWIchQISFO8i6DIW11D7HAjKgIj0AWfHS2K4joRAlHW0j-3/vti41cbl9yhkspl/i-%E3%85%A4N-E-2.642637.ipa",
       "localizedDescription": "Roblox executor by NEXUS",
-      "iconURL": "https://cdn.bio.link/uploads/thumbnails/2024-10-06/XkwBXK3vMpUZiHdvOWCeCiajjOTMR54J.png",
-      "tintColor": "rgba(0, 0, 0, 1)"
+      "iconURL": "https://cdn.bio.link/uploads/thumbnails/2024-10-06/XkwBXK3vMpUZiHdvOWCeCiajjOTMR54J.png"
     },
     {
       "name": "Blacklist",
@@ -24,7 +24,6 @@
       "downloadURL": "https://github.com/nexus-hub10/NEXUS-repository/raw/refs/heads/main/Blacklist.ipa",
       "localizedDescription": "Can reset your iPhone blacklist. Then you can use revoked app",
       "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgWYEbCCsTWVlGjGd1u-WhiNiYmnmivi0oZozwV-qjew&s",
-      "tintColor": "rgba(255, 0, 0, 1)"
     }
   ]
 }
